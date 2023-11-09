@@ -1,0 +1,12 @@
+--== UZOP projekt ==--
+
+1. dio
+
+Upute:
+U ovoj fazi projekta se očekuje da pripremite podatke iz danog skupa (učitati podatke, pozabaviti se sa nedostajućim i stršećim vrijednostima, pogledati koliko podataka uopće ima, kakvi su tipovi podataka, normalizirati vrijednosti, itd.) i malo ih vizualizirate. Što se tiče vizualizacije tu imate dosta opcija: korelacijska matrica, scatter plot za svaki par značajki (zasebno obojati pacijente sa dijabetesom i bez njega), box-plot usporedba godina pacijenata sa dijabetesom i bez njega, itd. 
+
+Ciljevi:
+- učitati podatke
+- provjeriti koji sve tipovi podataka postoje i prikazati deskriptivnu statistiku podataka
+- provjeriti postoje li nedostajuće vrijednosti i stršeće vrijednosti
+- vizualizirati podatke na nekoliko različitih načina (npr. histogram značajki, linijski dijagrami vremenskih nizova, točkasti dijagrami u ovisnosti o ciljnoj klasi, …)
